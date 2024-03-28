@@ -1,7 +1,6 @@
 import chai from "chai";
 const { expect } = chai;
 import mongoose from "mongoose";
-import mongoose from "mongoose";
 import Media from "../models/mediaModel.js";
 
 describe("Media Model", () => {
